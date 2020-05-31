@@ -2,17 +2,15 @@
 <div style="text-align: right">INFO 7390 Advances in Data Sciences and Architecture </div>
 <div style="text-align: right"> Suman Rawat : NUID 001058600</div>
 
-# README : Assignment 3 (Deep Learning)
+# README : Captcha Recognition - Deep Learning
 
 Convolutional neural networks are neural networks used primarily to classify images (i.e. name what they see), cluster images by similarity (photo search), and perform object recognition within scenes. For example, convolutional neural networks (ConvNets or CNNs) are used to identify faces, individuals, street signs, tumors, platypuses (platypi?) and many other aspects of visual data.
 
 The efficacy of convolutional nets in image recognition is one of the main reasons why the world has woken up to the efficacy of deep learning. In a sense, CNNs are the reason why deep learning is famous. The success of a deep convolutional architecture called AlexNet in the 2012 ImageNet competition was the shot heard round the world. CNNs are powering major advances in computer vision (CV), which has obvious applications for self-driving cars, robotics, drones, security, medical diagnoses, and treatments for the visually impaired.
 
-Create a GANs generator for some data (images, fonts, etc.)
-
 #### Part A - Deep Learning model
 
-In this Assignment we will apply a Deep Learning model to our data. Validate the accuracy on out of sample data.
+In this project we will apply a Deep Learning model to our data. Validate the accuracy on out of sample data.
 The Deep Learning model that i have used is CNN(Convulation Neural Network). The purpose of this network is to detect the text of the CAPTCHA images.
 
  #### Part B - Activation function
